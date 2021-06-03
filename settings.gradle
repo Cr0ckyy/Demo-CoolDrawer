@@ -1,0 +1,2 @@
+rootProject.name = "C347_L7_EX1 Demo Cool Drawer"
+include ':app'
